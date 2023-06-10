@@ -1,2 +1,5 @@
 yasil
 sari
+qara
+ag
+mavi

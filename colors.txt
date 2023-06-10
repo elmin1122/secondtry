@@ -3,3 +3,5 @@ sari
 qara
 ag
 mavi
+qirmirzi
+goy
